@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DD0014EF-F03F-4E60-94FA-55C9AF6FF825</string>
+	<key>IDESourceControlProjectName</key>
+	<string>微博个人详情页</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2416F484347A137A137AF32CA3AD7F333CFCBEAD</key>
+		<string>https://github.com/iThinkerYZ/PersonalEffect.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>微博个人详情页/微博个人详情页.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2416F484347A137A137AF32CA3AD7F333CFCBEAD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/iThinkerYZ/PersonalEffect.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2416F484347A137A137AF32CA3AD7F333CFCBEAD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2416F484347A137A137AF32CA3AD7F333CFCBEAD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PersonalEffect</string>
+		</dict>
+	</array>
+</dict>
+</plist>
